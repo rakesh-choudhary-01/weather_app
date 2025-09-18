@@ -47,13 +47,15 @@ in VSCode.
 weather_app/
 ├── index.html
 ├── style.css
-├── script.js
+├── index.js
+├── weather.json 
 └── README.md
 ```
 ---
 ## 📸 Example Screenshot
 
-[(https://github.com/rakesh-choudhary-01/weather_app/screenShot)]
+![Weather Dashboard Screenshot](screenShot.png)
 
+---
 
 
