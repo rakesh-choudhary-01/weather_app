@@ -28,4 +28,4 @@ A simple and responsive weather dashboard that allows users to enter a **city na
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/rakesh-choudhary-01/weather_app.git
