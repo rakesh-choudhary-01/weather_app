@@ -19,7 +19,7 @@ A simple and responsive weather dashboard that allows users to enter a **city na
 - **HTML5** - Markup language
 - **CSS3** - Styling and layout
 - **JavaScript (Vanilla)** - Interactivity and API integration
-- **OpenWeatherMap API** - Weather data provider
+- **Open-Meteo API** - Weather data provider
 
 ---
 
